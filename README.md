@@ -21,6 +21,7 @@
   <img align="center" alt="DBeaver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg">
   <img align="center" alt="Supabase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg">
   <img align="center" alt="FaunaDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/faunadb/faunadb-original.svg">
+  <img align="center" alt="dotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-original-wordmark.svg">
   
 </div>
  
