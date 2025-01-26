@@ -5,7 +5,7 @@
 <ul>
   <li>🎨👨🏻‍💻  <strong>Arte e Computação</strong>: Tive meu primeiro contato com programação aos 13 anos, eu gostava muito de desenhar e também tinha certa familiaridade com computador, comecei fazendo animações 3d, edições, e não demorou muito pra me interessar em desenvolvimento de games, comecei experimentando Java e fui para C#, e me apaixonei pela forma que tudo tomava forma e vida, isso chamou muita atenção do meu lado artístico também .</li>
   <li>❤️‍🔥  Após anos em uma relação de vai e vem com a programação, e ter concluído o ensino médio decidi que tinha que me profissionalizar em algo, fazer uma faculdade, foi aí que me reencontrei com computação e iniciei a faculdade de Ciência da computação, desde então não me distanciei mais.</li>
-  <li>🚀  Atualmente me encontro Desenvolvendo e Estudando constantemente sobre a área de desenvolvimento Web, utilizando das stacks que envolvem Javascript (Node, React, NextJs) e afins, tanto para backend quanto para fronted.</li>
+  <li>🚀  Atualmente me encontro Desenvolvendo e Estudando constantemente sobre a área de desenvolvimento Web, utilizando das stacks que envolvem Javascript (Node, React, NextJs) e afins, tanto para backend quanto para frontend.</li>
 </ul>
 
 ## 🚀 Minha atividade no Github
